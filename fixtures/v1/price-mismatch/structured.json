@@ -1,0 +1,31 @@
+{
+  "note": "Standalone structured-data surface for this fixture store.",
+  "products": [
+    {
+      "@type": "Product",
+      "productID": "lamp-001",
+      "sku": "LAMP-001",
+      "name": "Aurora Desk Lamp",
+      "offers": {
+        "price": "49.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "productID": "bottle-002",
+      "sku": "BTL-002",
+      "name": "Trailhead Insulated Bottle",
+      "offers": {
+        "price": "24.50",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+  ],
+  "policies": {
+    "shipping": "Free shipping on orders over $50",
+    "returns": "Free returns within 30 days"
+  }
+}

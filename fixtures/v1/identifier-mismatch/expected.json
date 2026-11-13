@@ -1,0 +1,14 @@
+{
+  "store": "identifier-mismatch",
+  "verdict": "CONFLICTS",
+  "conflicts": [
+    {
+      "scope": "lamp-001",
+      "field": "identifier",
+      "surface_a": "page",
+      "value_a": "LAMP-001",
+      "surface_b": "structured",
+      "value_b": "LAMP-100"
+    }
+  ]
+}

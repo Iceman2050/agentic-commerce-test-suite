@@ -1,0 +1,14 @@
+{
+  "store": "price-mismatch",
+  "verdict": "CONFLICTS",
+  "conflicts": [
+    {
+      "scope": "lamp-001",
+      "field": "price",
+      "surface_a": "page",
+      "value_a": "49.99",
+      "surface_b": "feed",
+      "value_b": "44.99"
+    }
+  ]
+}

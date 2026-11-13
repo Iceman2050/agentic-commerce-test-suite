@@ -1,0 +1,14 @@
+{
+  "store": "inventory-disagreement",
+  "verdict": "CONFLICTS",
+  "conflicts": [
+    {
+      "scope": "lamp-001",
+      "field": "availability",
+      "surface_a": "page",
+      "value_a": "in_stock",
+      "surface_b": "feed",
+      "value_b": "out_of_stock"
+    }
+  ]
+}

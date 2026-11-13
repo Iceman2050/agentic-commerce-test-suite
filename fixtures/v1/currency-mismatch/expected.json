@@ -1,0 +1,14 @@
+{
+  "store": "currency-mismatch",
+  "verdict": "CONFLICTS",
+  "conflicts": [
+    {
+      "scope": "lamp-001",
+      "field": "currency",
+      "surface_a": "page",
+      "value_a": "USD",
+      "surface_b": "structured",
+      "value_b": "EUR"
+    }
+  ]
+}

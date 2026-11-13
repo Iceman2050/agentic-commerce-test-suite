@@ -1,0 +1,14 @@
+{
+  "store": "policy-conflict",
+  "verdict": "CONFLICTS",
+  "conflicts": [
+    {
+      "scope": "store",
+      "field": "shipping",
+      "surface_a": "page",
+      "value_a": "free shipping on orders over $50",
+      "surface_b": "feed",
+      "value_b": "flat $6.95 shipping on all orders"
+    }
+  ]
+}

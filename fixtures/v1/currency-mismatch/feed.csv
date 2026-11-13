@@ -1,0 +1,3 @@
+id,sku,title,price,currency,availability,shipping,returns
+lamp-001,LAMP-001,Aurora Desk Lamp,49.99,USD,in_stock,Free shipping on orders over $50,Free returns within 30 days
+bottle-002,BTL-002,Trailhead Insulated Bottle,24.50,USD,in_stock,Free shipping on orders over $50,Free returns within 30 days
